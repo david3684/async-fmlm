@@ -2,8 +2,8 @@
 
 <div align="center">
 
-**[Chanhyuk Lee](https://david3684.github.io)**<sup>1</sup>, **Wonjung Kim**<sup>1</sup>, **Patrick Pynadath**<sup>2</sup>, **[Jaehoon Yoo](https://sites.google.com/view/jaehoon-yoo/홈)**<sup>1</sup>, \
-**Satoshi Hayakawa**<sup>3</sup>, **Ruqi Zhang**<sup>2</sup>, **[Jinwoo Kim](https://jw9730.github.io/)**<sup>†1</sup>, **[Seunghoon Hong](https://maga33.github.io/)**<sup>†1</sup>
+**[Chanhyuk Lee](https://david3684.github.io)**<sup>1</sup>, **[Wonjung Kim](https://wjhjkim.github.io/)**<sup>1</sup>, **[Patrick Pynadath](https://patrickpynadath1.github.io/)**<sup>2</sup>, **[Jaehoon Yoo](https://sites.google.com/view/jaehoon-yoo/홈)**<sup>1</sup>, \
+**[Satoshi Hayakawa](https://satoshi-hayakawa.github.io/)**<sup>3</sup>, **[Ruqi Zhang](https://ruqizhang.github.io/)**<sup>2</sup>, **[Jinwoo Kim](https://jw9730.github.io/)**<sup>†1</sup>, **[Seunghoon Hong](https://maga33.github.io/)**<sup>†1</sup>
 
 <sup>1</sup>KAIST &nbsp; <sup>2</sup>Purdue University &nbsp; <sup>3</sup>The University of Tokyo &nbsp; <sup>†</sup>Equal advising
 
